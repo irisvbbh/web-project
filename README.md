@@ -6,3 +6,5 @@
 ding ni ge fei
 ding ni ge fei
 erer
+
+test without proxy
